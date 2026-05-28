@@ -1,4 +1,4 @@
-### Case Study: Complex Instruction Following
+### Case Study: Complex Instruction Following (Extreme Constraints)
 
 **Prompt:**
 > Draft a formal apology email to a client regarding a delayed project delivery. The email must be exactly 5 sentences long. The first sentence must state the exact length of the delay (72 hours). The third sentence must contain a rhetorical question. Do not use any words containing the letter 'o' in the final sentence.
